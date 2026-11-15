@@ -1,0 +1,8 @@
+[
+  {"quantity":{"amount":0,"unit":"tokens"},"valid":true},
+  {"quantity":{"amount":9223372036854775807,"unit":"milliseconds"},"valid":true},
+  {"quantity":{"amount":-1,"unit":"tokens"},"valid":false},
+  {"quantity":{"amount":9223372036854775808,"unit":"tokens"},"valid":false},
+  {"quantity":{"amount":true,"unit":"tokens"},"valid":false},
+  {"quantity":{"amount":1,"unit":""},"valid":false}
+]
